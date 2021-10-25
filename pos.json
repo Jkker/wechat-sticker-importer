@@ -1,0 +1,26 @@
+{
+    "select_file": [
+        472,
+        1862
+    ],
+    "emoji_file": [
+        284,
+        223
+    ],
+    "sent_emoji": [
+        1815,
+        1789
+    ],
+    "add_sticker": [
+        1833,
+        1799
+    ],
+    "delete_message": [
+        1849,
+        1932
+    ],
+    "delete_message_confirm": [
+        1031,
+        1148
+    ]
+}
